@@ -1,2 +1,1 @@
-NUMBER = 6
-SALARY = U$ 2254.75
+Intervalo (75,100]
